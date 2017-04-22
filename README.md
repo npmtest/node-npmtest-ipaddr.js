@@ -81,7 +81,8 @@
     "scripts": {
         "test": "cake build test"
     },
-    "version": "1.3.0"
+    "version": "1.3.0",
+    "bin": {}
 }
 ```
 
